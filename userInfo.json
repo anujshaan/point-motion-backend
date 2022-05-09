@@ -1,0 +1,38 @@
+[
+  {
+    "fname": "somename",
+    "lname": "somename",
+    "username": "test",
+    "password": "e69239b5f2f0340d634efaf0acd2c4cf"
+  },
+  {
+    "fname": "Foo",
+    "lname": "Bar",
+    "username": "foobarbaz",
+    "password": "ef22789faa7836c740cdbdfdb57e4abb"
+  },
+  {
+    "fname": "anuj",
+    "lname": "shaan",
+    "username": "anujshaan",
+    "password": "6592115c19ec9f278320d5b53b9225ee"
+  },
+  {
+    "fname": "anuj",
+    "lname": "raaj",
+    "username": "ashishraj",
+    "password": "adbf3adac41429feea8f5066a05a44c1"
+  },
+  {
+    "fname": "anuj",
+    "lname": "shaan",
+    "username": "anujshaaan",
+    "password": "6592115c19ec9f278320d5b53b9225ee"
+  },
+  {
+    "fname": "anuj",
+    "lname": "shaan",
+    "username": "anujshaaana",
+    "password": "6592115c19ec9f278320d5b53b9225ee"
+  }
+]
